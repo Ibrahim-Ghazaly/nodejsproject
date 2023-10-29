@@ -1,9 +1,0 @@
-
-
-const getAllUsers = ()=>{
-
-}
-
-const register = ()=>{
-    
-}

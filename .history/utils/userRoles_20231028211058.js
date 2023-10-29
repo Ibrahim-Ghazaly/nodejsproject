@@ -1,3 +1,0 @@
-const userModel = {
-    U
-}
