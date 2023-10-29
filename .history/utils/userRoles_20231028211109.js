@@ -1,0 +1,4 @@
+const userModel = {
+    USER:"USER",
+    
+}
